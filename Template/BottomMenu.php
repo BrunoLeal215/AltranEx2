@@ -1,0 +1,1 @@
+<img alt="rodape" src="images/rodape.png"/>
